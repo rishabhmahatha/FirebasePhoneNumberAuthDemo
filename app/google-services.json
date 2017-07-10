@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "51468495530",
+    "firebase_url": "https://phnumberauthdemo-66e37.firebaseio.com",
+    "project_id": "phnumberauthdemo-66e37",
+    "storage_bucket": "phnumberauthdemo-66e37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51468495530:android:d55b47eed5763136",
+        "android_client_info": {
+          "package_name": "indianic.com.firebasephonenumberauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51468495530-cqsmkl5l1ip07qcjbeesc30jrsgsth2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "indianic.com.firebasephonenumberauthdemo",
+            "certificate_hash": "2f00a9636b373416dc7ca3b975d5bde619136bd0"
+          }
+        },
+        {
+          "client_id": "51468495530-e850qa7qfj6h302cgnor03ds744omd7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVA4I2HjkexNoNXs321QCZ-ihS7BFhFxY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51468495530-e850qa7qfj6h302cgnor03ds744omd7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirebasePhoneNumberAuthDemo</string>
+    <string name="mobile_number">Enter mobile number</string>
+    <string name="common_signin_button_text">Login</string>
+    <string name="enter_otp">Enter Otp</string>
+    <string name="verify">Verify</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="wrong_verification_code_alert">You have entered the wrong verification code</string>
+    <string name="ph_number_empty_alert">Ph number can not be empty</string>
+    <string name="otp_blank_alert">otp number can not be empty</string>
+    <string name="otp_send_message">verification code sent to your entered mobile number! please check</string>
+    <string name="sms_qutoa_exceeded_alert">The SMS quota for the project has been exceeded</string>
+    <string name="please_wait">Please wait</string>
+    <string name="phone_number_successfully_verified_thankyou">Phone Number successfully verified!! Thankyou</string>
+</resources>
